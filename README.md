@@ -1,4 +1,4 @@
-# alfred-volume-control
+# alfred-adjust-volume
 > Adjust the volume level of your device using this Alfred workflow
 
 ## Usage
